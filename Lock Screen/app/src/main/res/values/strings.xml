@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lock Screen</string>
+    <string name="app_description">Allow Lock Screen to toggle the screen lock.</string>
+</resources>
